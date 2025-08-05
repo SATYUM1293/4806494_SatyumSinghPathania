@@ -1,12 +1,15 @@
 # 4806494_SatyumSinghPathania
 
-This is my Agile SDLC Course Completion Proof of Work.
-
+### This is my Agile SDLC Course Completion Proof of Work.
 ![Course_Completion](images/Agile_Course_POW.png)
 
+***
+### This is my Git Training Certificate
+[![Git Training](images/Git.png)](Git/Certificate.pdf)
+___
 
-## These is my C_Programming Certificates
-
+### These are my C_Programming Certificates
 [![Introduction To C](images/C_intro.png)](C_Programming/Introduction_to_C.pdf)
 [![Intermediate C](images/C_Intermediate.png)](Intermediate_C.pdf)
+
 

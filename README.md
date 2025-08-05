@@ -9,7 +9,8 @@
 ___
 
 ### These are my C_Programming Certificates
-[![Introduction To C](images/C_intro.png)](C_Programming/Introduction_to_C.pdf)
-[![Intermediate C](images/C_Intermediate.png)](Intermediate_C.pdf)
+[![Introduction To C](images/C_intro.png)](C_programming/Introduction_to_C.pdf)
+[![Intermediate C](images/C_Intermediate.png)](C_programming/Intermediate_C.pdf)
+
 
 
